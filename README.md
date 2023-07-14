@@ -17,6 +17,7 @@ Today I Learned
 <br>
 
 ## DB
+* [DB의 정의](https://github.com/MoMoon-LKH/TIL/blob/main/DB/DefinitionOfDB.md)
 <br>
 
 ## NETWORK
