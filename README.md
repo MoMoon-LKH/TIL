@@ -13,7 +13,9 @@ Today I Learned
 ## JPA
 * [연관관계](https://github.com/MoMoon-LKH/TIL/blob/main/JPA/Relationship.md)
 * [연관관계 다중성](https://github.com/MoMoon-LKH/TIL/blob/main/JPA/RelationshipOfVarious.md)
+* [고급매핑](https://github.com/MoMoon-LKH/TIL/blob/main/JPA/AdvancedMapping.md)
 * [락](https://github.com/MoMoon-LKH/TIL/blob/main/JPA/Lock.md)
+
 
 <br>
 
