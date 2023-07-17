@@ -45,3 +45,8 @@ team.getId(); // 초기화 안됨
 ## 프록시 확인 방법
     PersistenceUnitUtil.isLoaded(Object object) 메소드를 통해 확인 가능
     ㄴ 초기화 X false, 초기화 true
+
+## 참고
+[자바 ORM 표준 JPA 프로그래밍 - 김영한 저자](https://product.kyobobook.co.kr/detail/S000000935744)
+
+2023-07-17

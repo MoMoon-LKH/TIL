@@ -298,7 +298,7 @@ public class Order {
 ### 비식별관계를 권장
 
 
-## 참조
+## 참고
 [자바 ORM 표준 JPA 프로그래밍 - 김영한 저자](https://product.kyobobook.co.kr/detail/S000000935744)
 
 2023-07-15
