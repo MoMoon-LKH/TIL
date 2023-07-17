@@ -19,9 +19,6 @@ public class Car{
         car.speedUp();
     }
 }
-
-
-
 ```
 <br>
 
