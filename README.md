@@ -5,6 +5,8 @@ Today I Learned
 ## JAVA
 * [클래스와 메소드](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/ClassAndMethod.md)
 * [객체](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Object.md)
+* [변수](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Variable.md)
+* [자료형](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/JavaType.md)
 <br>
 
 ## SPRING
