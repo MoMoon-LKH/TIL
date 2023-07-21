@@ -1,7 +1,10 @@
 # 객체
+
+------------------------
+
 ## 1. 객체란?
-    - 각각의 실제 사물을 나타내기 위한 것
-    - 참조 자료형
+- 각각의 실제 사물을 나타내기 위한 것
+- 참조 자료형
 ```java
 public class Car{
     
@@ -22,12 +25,44 @@ public class Car{
 }
 ```
 ### 클래스와 객체의 다른점
-    클래스의 생성자를 통해 객체를 생성
-    즉, 클래스는 설계도고 객체는 설계도를 통해 생성된 각각의 사물
+>클래스의 생성자를 통해 객체를 생성 <br>
+>즉, 클래스는 설계도고 객체는 설계도를 통해 생성된 각각의 사물
+<br>
+
+## 2. 클래스와 메소드
+### 1) 클래스
+    상태와 행위를 가지고 있는 자바의 가장 작은 단위
+
+```java
+public class Printer {
+    
+    // 상태
+    int amountOfInk;
+    
+    // 행위
+    public String print(String content) {
+        // 메서드
+    }
+}
+```
+
+### 2) 메소드
+- 클래스의 행위에 해당되며 타입과 이름을 가진 매개변수를 받고 리턴타입에 해당되는 결과값을 반환해주는 함수
+
+#### (1) 구조
+```java
+public boolean checkPassword(String password) {
+접근제어자 ㄴ리턴타입 메소드 이름    매개변수
+    // 메소드 내용
+}
+
+```
+> ### 메소드는 반드시 클래스 안에서 정의되어야 한다
 <br>
 
 
-## 2. 생성자
+
+## 3. 생성자
 ```java
 public class Example() {
     
@@ -55,7 +90,7 @@ public class Example() {
     - 생성자와 메소드 안에서 사용가능
 <br>
 
-## 3. static
+## 4. static
 ### 1) static 메소드
 ```java
 
@@ -73,10 +108,10 @@ public class Car {
     }
 }
 ```
-- static 메소드는 클래스 변수 (static 변수)만 사용가능하다
+> static 메소드는 클래스 변수 (static 변수)만 사용가능하다
 
 ### 2) static 블럭
-    객체가 생성되기 전에 한번만 호출되는 메소드
+- 객체가 생성되기 전에 한번만 호출되는 메소드
 
 ```java
 public class Block {
@@ -115,7 +150,7 @@ public class Block {
 
 <br>
 
-## 4. Pass by Value, Pass by Reference
+## 5. Pass by Value, Pass by Reference
 ### 1) Pass by Value
 #### 값만 전달
 - 기본 자료형
@@ -140,16 +175,16 @@ public class PassByValue {
         System.out.println(a);
     }
     
-    /*
-            결과
-            1
-            2
-            1
+    /**
+        결과
+        1
+        2
+        1
      */
 }
 
 ```
-### 전달한 변수의 값은 변함이 없다
+> ### 전달한 변수의 값은 변함이 없다
 <br>
 
 ### 2) Pass by Reference
@@ -174,19 +209,19 @@ public class PassByReference {
     }
 
     /**
-     결과
-     kim
-     lee
-     lee
+         결과
+         kim
+         lee
+         lee
      */
 }
 
 ```
-### 주소값을 넘겼기 때문에 객체의 상태를 변경하면 해당 상태가 유지된다
+> ### 주소값을 넘겼기 때문에 객체의 상태를 변경하면 해당 상태가 유지된다
 <br>
 
-## 5. 오버로딩 ( Overloading )
-    메소드 이름, 접근제어자, 리턴타입은 같지만 매개변수의 종류와 개수, 순서가 다르면 다른 메소드로 인식하는 기능
+## 6. 오버로딩 ( Overloading )
+- 메소드 이름, 접근제어자, 리턴타입은 같지만 매개변수의 종류와 개수, 순서가 다르면 다른 메소드로 인식하는 기능
 
 ```java
 
@@ -212,7 +247,7 @@ public void example(int num1, int num2) {
 #### VO(Value Object)
 - 데이터를 담아두기 위한 목적
 
-#### DTO > VO, DTO가 VO보다 하는 일이 많기 때문에 보통 DTO를 선호
+> #### DTO > VO, DTO가 VO보다 하는 일이 많기 때문에 보통 DTO를 선호
 
 <br>
 
