@@ -46,7 +46,12 @@
 
 ### 2. 참조 자료형
     new 예약어를 통해 객체를 생성하여 사용하는 자료형
+```java
+public static void main(String args[]) {
+    String s = new String("s");
+}
 
+```
 
 
 ## 기본값
