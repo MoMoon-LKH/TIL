@@ -7,6 +7,7 @@ Today I Learned
 * [객체](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Object.md)
 * [변수](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Variable.md)
 * [자료형](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/JavaType.md)
+* [배열](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Arrays.md)
 <br>
 
 ## SPRING
