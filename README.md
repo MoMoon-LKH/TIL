@@ -8,7 +8,7 @@ Today I Learned
 * [자료형](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/JavaType.md)
 * [배열](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Arrays.md)
 * [접근제어자](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/AccessModifier.md)
-* [상속]()
+* [상속](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Inheritance.md)
 <br>
 
 ## SPRING
