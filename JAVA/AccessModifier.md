@@ -25,3 +25,8 @@
 
 ### 4) private
 - 해당 클래스내에서만 접근 가능
+
+<br>
+
+### 참고
+[자바의 신 - 이상민 저](https://www.yes24.com/Product/Goods/42643850)

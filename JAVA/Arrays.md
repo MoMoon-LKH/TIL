@@ -58,5 +58,8 @@ public void print() {
 
 배열의 값을 for 루프의 조건에 직접적으로 입력하는 코딩은 피하는 것이 좋다
 ```
+<br>
 
+### 참고
+[자바의 신 - 이상민 저](https://www.yes24.com/Product/Goods/42643850)
 
