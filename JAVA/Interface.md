@@ -128,4 +128,10 @@ public enum OverTime() {
 
 ```
 - 생성자를 만들 수 있지만 package-private와 private의 접근제어자만 가능
-    
+
+
+<br>
+
+### 참고
+[자바의 신 - 이상민 저](https://www.yes24.com/Product/Goods/42643850)
+

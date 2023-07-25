@@ -65,5 +65,9 @@ public void example() {
 ```
 ### 따라서 equals()를 오버라이드했다면 hashCode()도 마찬가지로 값을 기준으로 고유 값을 반환해야된다
 
+<br>
+
+### 참고
+[자바의 신 - 이상민 저](https://www.yes24.com/Product/Goods/42643850)
 
 
