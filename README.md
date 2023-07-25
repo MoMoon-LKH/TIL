@@ -11,6 +11,7 @@ Today I Learned
 * [상속](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Inheritance.md)
 * [Equals()와 hashCode()](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/EqualsAndHashCode.md)
 * [인터페이스와 추상클래스](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Interface.md)
+* [예외 처리](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Exception.md)
 <br>
 
 ## SPRING
