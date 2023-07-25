@@ -10,6 +10,7 @@ Today I Learned
 * [접근제어자](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/AccessModifier.md)
 * [상속](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Inheritance.md)
 * [Equals()와 hashCode()](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/EqualsAndHashCode.md)
+* [인터페이스와 추상클래스](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Interface.md)
 <br>
 
 ## SPRING
