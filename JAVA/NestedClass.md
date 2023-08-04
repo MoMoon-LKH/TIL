@@ -80,3 +80,7 @@ public void setEventListener() {
 - 생성자 호출할 때 실제 구현 동작도 같이 적어준다
 - 익명 클래스의 장점은 클래스를 많이 만들수록 메모리가 많이 필요해지는데 그 부분을 최소화할 수 있다
     ㄴ 
+<br>
+
+### 참고
+[자바의 신 - 이상민 저](https://www.yes24.com/Product/Goods/42643850)
