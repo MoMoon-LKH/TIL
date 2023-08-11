@@ -198,3 +198,11 @@ public<S, T extends Car> void multiGeneric(GenericClass<T> t, T addValue, S anot
 
 ```
 리턴타입 앞에 제네릭을 선언함으로써 제네릭 메소드로 사용할 수 있다
+
+
+<br>
+
+
+### 참고
+[자바의 신 - 이상민 저](https://www.yes24.com/Product/Goods/42643850)
+
