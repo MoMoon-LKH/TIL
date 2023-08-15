@@ -15,6 +15,15 @@ Today I Learned
 * [String](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/String.md)
 * [Nested Class](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/NestedClass.md)
 * [어노테이션](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Annotation.md)
+* [자바의 특징](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/CharacteristicsOfJava.md)
+* [Generic](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Generic.md)
+* 자료구조
+    - [List](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/DataStructure/List.md)
+    - [Map](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/DataStructure/Map.md)
+    - [Set](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/DataStructure/Set.md)
+* [Thread](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Thread.md)
+* [I/O](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/IO.md)
+* [Serializable](https://github.com/MoMoon-LKH/TIL/blob/main/JAVA/Serializable.md)
 <br>
 
 ## SPRING
