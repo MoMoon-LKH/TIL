@@ -46,4 +46,7 @@ Today I Learned
 <br>
 
 ## NETWORK
+* [네트워크 개념](https://github.com/MoMoon-LKH/TIL/blob/main/Network/Network.md)
+* [서버의 종류](https://github.com/MoMoon-LKH/TIL/blob/main/Network/KindOfServer.md)
+* [네트워크 구성](https://github.com/MoMoon-LKH/TIL/blob/main/Network/ConfigurationOfNetwork.md)
 <br>
