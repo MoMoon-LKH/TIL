@@ -48,10 +48,10 @@ public class CastingDto<T> implements Serializable {
 public class GenericO() {
 
     public static void main(String[] args) {
-        CastingDto dto1 = new CastingDto();
+        CastingDto<String> dto1 = new CastingDto<>();
         dto1.setObject(new String());
 
-        CastingDto dto2 = new CastingDto();
+        CastingDto<StringBuffer> dto2 = new CastingDto<>();
         dto2.setObject(new StringBuffer());
 
         String str = dto1.getObject();
